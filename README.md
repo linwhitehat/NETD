@@ -55,7 +55,7 @@ We provide four datasets generated with different distribution shifts:
 
 You can download the complete NETD dataset from the following link:
 
-* **[Download NETD from Google Drive](https://your-google-drive-link-here)**
+* **[Download NETD from Google Drive]()**
 
 ## How to Cite
 

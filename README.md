@@ -60,5 +60,6 @@ If you use NETD in your research, please cite our paper:
   title={Respond to Change with Constancy: Instruction-tuning with LLM for Non-IID Network Traffic Classification},
   author={Lin, Xinjie and Xiong, Gang and Gou, Gaopeng and Dong, Wenqi and Yu, Jing and Li, Zhen and Xia, Wei},
   journal={IEEE Transactions on Information Forensics and Security},
-  year={2025},
-  publisher={IEEE}
+  volume={20},
+  pages={5758-5773},
+  year={2025}

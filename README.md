@@ -50,8 +50,8 @@ We provide six datasets generated with different distribution shifts:
 * **NETD-2**: Also constructed using **proportional bias**, but with a dominant-to-minor component ratio of 3:1 in the training set.
 * **NETD-3**: Constructed using a **compositional bias** strategy. The training set is built from only 80% of the applications within each target service class, while the test set contains the full data.
 * **NETD-4**: A more extreme version of NETD-3. The training set is constructed from only 20% of the contextual applications for the target service.
-* **APP53-Time**: The dataset is used for classifying encrypted application traffic across different time intervals, and it notably lacks the bbc.mobile.weather category.
-* **APP53-Version**: The dataset is used for classifying encrypted application traffic across different application versions due to updates.
+* **APP53-Time**: The dataset is used for classifying encrypted application traffic based on time span (one month interval), and compared to the categories listed in the paper, it lacks the bbc.mobile.weather category.
+* **APP53-Version**: The dataset is used for classifying encrypted application traffic based on version span (version update).
 
 
 ## Dataset Access
